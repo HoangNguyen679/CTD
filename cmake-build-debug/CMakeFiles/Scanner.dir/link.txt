@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Scanner.dir/charcode.c.o CMakeFiles/Scanner.dir/error.c.o CMakeFiles/Scanner.dir/reader.c.o CMakeFiles/Scanner.dir/scanner.c.o CMakeFiles/Scanner.dir/token.c.o  -o Scanner 
